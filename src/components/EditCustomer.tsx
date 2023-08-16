@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import Navbar from './Navbar';
 import toast, { Toaster } from 'react-hot-toast';
-import { fetchCustomers, updateCustomer } from '../../lib/data'; // Assuming you have imported the updateCustomer function
+import { fetchCustomers, updateCustomer } from '../../lib/data';
 
 interface ICustomer {
   id: number;

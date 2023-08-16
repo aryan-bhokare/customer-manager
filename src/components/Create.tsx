@@ -4,6 +4,7 @@ import toast, { Toaster } from 'react-hot-toast';
 import { createCustomer } from '../../lib/data';
 
 interface IValues {
+  id: number;
   first_name: string;
   last_name: string;
   email: string;
@@ -16,6 +17,7 @@ const Create: React.FC = () => {
   const router = useRouter();
 
   const initialFormState: IValues = {
+    id: -1,
     first_name: '',
     last_name: '',
     email: '',
