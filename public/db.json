@@ -1,0 +1,76 @@
+{
+  "customers": [
+    {
+      "first_name": "Aryan",
+      "last_name": "Bhokare",
+      "email": "aryan1bhokare@gmail.com",
+      "phone": "7666242792",
+      "address": "ok",
+      "description": "",
+      "id": 2
+    },
+    {
+      "first_name": "Aryan bolte",
+      "last_name": "Bhokare",
+      "email": "aryan1bhokare@gmail.com",
+      "phone": "7666242792",
+      "address": "ok",
+      "description": "",
+      "id": 3
+    },
+    {
+      "first_name": "Aryan",
+      "last_name": "Bhokare",
+      "email": "aryan1bhokare@gmail.com",
+      "phone": "7666242792",
+      "address": "ok",
+      "description": "",
+      "id": 4
+    },
+    {
+      "first_name": "Aryan",
+      "last_name": "Bhokare",
+      "email": "aryan1bhokare@gmail.com",
+      "phone": "7666242792",
+      "address": "ok",
+      "description": "",
+      "id": 5
+    },
+    {
+      "first_name": "Aryan",
+      "last_name": "Bhokare",
+      "email": "janhavialekar@gmail.com",
+      "phone": "7666242792",
+      "address": "ok",
+      "description": "",
+      "id": 6
+    },
+    {
+      "first_name": "Aryan",
+      "last_name": "Bhokare",
+      "email": "aryan1bhokare@gmail.com",
+      "phone": "7666242792",
+      "address": "ok",
+      "description": "",
+      "id": 7
+    },
+    {
+      "first_name": "Aryan",
+      "last_name": "Bhokare",
+      "email": "aryan1bhokare@gmail.com",
+      "phone": "7666242792",
+      "address": "ok",
+      "description": "",
+      "id": 8
+    },
+    {
+      "first_name": "Aryan bolte",
+      "last_name": "Bhokare",
+      "email": "aryan1bhokare@gmail.com",
+      "phone": "7666242792",
+      "address": "ok",
+      "description": "",
+      "id": 9
+    }
+  ]
+}
