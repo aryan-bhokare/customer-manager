@@ -7,9 +7,9 @@ interface NavbarProps {
 
 const Navbar: React.FC<NavbarProps> = ({ links }) => {
   return (
-    <nav className="p-10 bg-transparent  border-slate-800 px-2 sm:px-4 py-2.5 rounded">
+    <nav className="p-10 bg-transparent border-2 border-slate-800 px-2 sm:px-4 py-2.5 rounded">
           <div className="container flex flex-wrap items-center justify-between mx-auto">
-          <h1 className='text-xl font-bold text-black '><a href="/">Customer Manager</a></h1>
+          <h1 className='text-xl font-bold text-black '><Link href="/">Customer Manager</Link></h1>
             <div className=" w-full md:block md:w-auto" id="navbar-default">
               <ul className="flex flex-co p-4 mt-4 text-black  rounded-lg md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0">
                 {links?.map((link, index) => (
